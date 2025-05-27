@@ -1,9 +1,6 @@
 # SoftwareTestingProject
 This repository contains a Manual Testing project that demonstrates a structured approach to quality assurance through detailed documentation, including a Test Plan and comprehensive Test Cases.
-📁 Manual-Testing-Project/
-├── 📄 Test_Plan.md
-├── 📄 Test_Cases.xlsx
-└── 📁 Screenshots/ (Optional)
+
 🧪 Tools Used
 Excel / Google Sheets (for test case management)
 
@@ -12,14 +9,6 @@ Markdown (for documentation)
 Manual execution (no automation tools used)
 
 Let me know if you'd like a README file version or want this tailored to a specific domain (e.g., e-commerce, mobile app, banking).
-
-
-
-You said:
-generate Github description for Manual testing project,testplan and testcases
-
-ChatGPT said:
-Here's a clear and concise GitHub description for a Manual Testing project that includes a Test Plan and Test Cases:
 
 🧪 Manual Testing Project
 This repository contains a Manual Testing project that demonstrates a structured approach to quality assurance through detailed documentation, including a Test Plan and comprehensive Test Cases.
@@ -149,7 +138,3 @@ The `Test_Cases.xlsx` file contains detailed test scenarios and steps. Each test
 2. Open the `Test_Cases.xlsx` file to explore or execute the test cases.
 3. Record the results during manual execution.
 4. Add evidence (screenshots, logs) to the `Screenshots/` folder if needed.
-
----
-
-**Note:** This project is designed for learning, training, or demonstration purposes. It can be customized to fit real-world applications or specific domains such as e-commerce, finance, healthcare, etc.
